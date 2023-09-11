@@ -1,2 +1,4 @@
 # 4D-prg-2324-soupal
-dasdd
+git add .
+git commit -m "added info"
+git push
