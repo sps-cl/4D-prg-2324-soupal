@@ -1,6 +1,14 @@
 ﻿using System;
 
-class Kalkulacka
+public interface Calculator
+{
+    double Plus(double x, double y);
+    double Minus(double x, double y);
+    double Krat(double x, double y);
+    double Div(double x, double y);
+}
+
+public class Kalkulacka : Calculator
 {
     public double Plus(double x, double y)
     {

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projekty\\CSharp\\Kalkulacka_class\\Kalkulacka\\Kalkulacka\\Kalkulacka.csproj",
+      "projectUniqueName": "D:\\Projekty\\CSharp\\Kalkulacka_class\\4D-prg-2324-soupal\\Kalkulacka\\Kalkulacka\\Kalkulacka.csproj",
       "projectName": "Kalkulacka",
-      "projectPath": "D:\\Projekty\\CSharp\\Kalkulacka_class\\Kalkulacka\\Kalkulacka\\Kalkulacka.csproj",
+      "projectPath": "D:\\Projekty\\CSharp\\Kalkulacka_class\\4D-prg-2324-soupal\\Kalkulacka\\Kalkulacka\\Kalkulacka.csproj",
       "packagesPath": "C:\\Users\\janso\\.nuget\\packages\\",
-      "outputPath": "D:\\Projekty\\CSharp\\Kalkulacka_class\\Kalkulacka\\Kalkulacka\\obj\\",
+      "outputPath": "D:\\Projekty\\CSharp\\Kalkulacka_class\\4D-prg-2324-soupal\\Kalkulacka\\Kalkulacka\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\janso\\AppData\\Roaming\\NuGet\\NuGet.Config",
