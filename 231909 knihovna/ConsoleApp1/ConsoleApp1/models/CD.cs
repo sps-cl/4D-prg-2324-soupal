@@ -11,7 +11,7 @@ namespace ConsoleApp1.models
         public int Lenght { get; }
         public string Director { get; }
 
-        public CD(int lenght, string director) : base (id,title)
+        public CD(int lenght, string director, int id, string title) : base (id,title)
         {
             this.Lenght = lenght;
             this.Director = director;
