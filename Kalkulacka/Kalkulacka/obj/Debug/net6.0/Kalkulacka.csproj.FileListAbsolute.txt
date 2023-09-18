@@ -1,0 +1,15 @@
+D:\Projekty\CSharp\Kalkulacka_class\Kalkulacka\Kalkulacka\bin\Debug\net6.0\Kalkulacka.exe
+D:\Projekty\CSharp\Kalkulacka_class\Kalkulacka\Kalkulacka\bin\Debug\net6.0\Kalkulacka.deps.json
+D:\Projekty\CSharp\Kalkulacka_class\Kalkulacka\Kalkulacka\bin\Debug\net6.0\Kalkulacka.runtimeconfig.json
+D:\Projekty\CSharp\Kalkulacka_class\Kalkulacka\Kalkulacka\bin\Debug\net6.0\Kalkulacka.dll
+D:\Projekty\CSharp\Kalkulacka_class\Kalkulacka\Kalkulacka\bin\Debug\net6.0\Kalkulacka.pdb
+D:\Projekty\CSharp\Kalkulacka_class\Kalkulacka\Kalkulacka\obj\Debug\net6.0\Kalkulacka.csproj.AssemblyReference.cache
+D:\Projekty\CSharp\Kalkulacka_class\Kalkulacka\Kalkulacka\obj\Debug\net6.0\Kalkulacka.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekty\CSharp\Kalkulacka_class\Kalkulacka\Kalkulacka\obj\Debug\net6.0\Kalkulacka.AssemblyInfoInputs.cache
+D:\Projekty\CSharp\Kalkulacka_class\Kalkulacka\Kalkulacka\obj\Debug\net6.0\Kalkulacka.AssemblyInfo.cs
+D:\Projekty\CSharp\Kalkulacka_class\Kalkulacka\Kalkulacka\obj\Debug\net6.0\Kalkulacka.csproj.CoreCompileInputs.cache
+D:\Projekty\CSharp\Kalkulacka_class\Kalkulacka\Kalkulacka\obj\Debug\net6.0\Kalkulacka.dll
+D:\Projekty\CSharp\Kalkulacka_class\Kalkulacka\Kalkulacka\obj\Debug\net6.0\refint\Kalkulacka.dll
+D:\Projekty\CSharp\Kalkulacka_class\Kalkulacka\Kalkulacka\obj\Debug\net6.0\Kalkulacka.pdb
+D:\Projekty\CSharp\Kalkulacka_class\Kalkulacka\Kalkulacka\obj\Debug\net6.0\Kalkulacka.genruntimeconfig.cache
+D:\Projekty\CSharp\Kalkulacka_class\Kalkulacka\Kalkulacka\obj\Debug\net6.0\ref\Kalkulacka.dll
