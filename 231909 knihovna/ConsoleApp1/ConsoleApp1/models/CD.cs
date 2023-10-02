@@ -4,21 +4,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1.models
+namespace LibraryApp.models
 {
-    internal class CD : LibraryItem<CD>
+    internal class DVD : LibraryItem<DVD>
     {
-        public int Lenght { get; }
         public string Director { get; }
 
-        public CD(int lenght, string director, int id, string title) : base (id,title)
+        public DVD(string Director, int id, string Title) : base(id, Title)
         {
-            this.Lenght = lenght;
-            this.Director = director;
+            this.Director = Director;
         }
+
         public override void DisplayInfo()
         {
-            Console.WriteLine($"Autor {Director}, doba poslechu {Lenght}");
+            Console.WriteLine($"Autor {Director}");
         }
+
     }
 }

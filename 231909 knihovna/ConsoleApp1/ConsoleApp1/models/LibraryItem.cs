@@ -4,21 +4,21 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1.models
+namespace LibraryApp.models
 {
     internal abstract class LibraryItem<T>
     {
-        private int Id { get; }
-        private string Title { get; }
-        private bool IsAvailable { get; }
+        public int Id { get; }
+        public string Title { get; }
+        public bool IsAvailable { get; set; }
 
-        public LibraryItem(int id, string title)
+        public LibraryItem(int id, string Title)
         {
-            Id = id;
-            Title = title;
-            IsAvailable = true;
+            this.Id = id;
+            this.Title = Title;
+            this.IsAvailable = true;
         }
 
-        public abstract void DisplayInfo ();
+        public abstract void DisplayInfo();
     }
 }

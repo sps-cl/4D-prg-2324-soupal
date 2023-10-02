@@ -4,22 +4,25 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ConsoleApp1.models
+namespace LibraryApp.models
 {
     internal class Book : LibraryItem<Book>
     {
         public int NumberOfPages { get; }
         public string Author { get; }
 
-        public Book(int numberofpages, string author, int id, string title) : base(id, title)
+
+        public Book(int NumberOfPages, string Author, int id, string Title) : base(id, Title)
         {
-            this.NumberOfPages = numberofpages;
-            this.Author = author;
+            this.NumberOfPages = NumberOfPages;
+            this.Author = Author;
         }
 
         public override void DisplayInfo()
         {
-            Console.WriteLine($"Autor {Author}, pocet stran {NumberOfPages}");
+            Console.WriteLine($"Autor {Author} a počet stran: {NumberOfPages}");
         }
+
     }
+
 }

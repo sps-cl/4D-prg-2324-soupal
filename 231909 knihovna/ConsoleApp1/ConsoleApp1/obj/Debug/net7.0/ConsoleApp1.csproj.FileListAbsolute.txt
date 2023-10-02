@@ -1,0 +1,14 @@
+R:\PRG\GitHub\4D-prg-2324-soupal\231909 knihovna\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+R:\PRG\GitHub\4D-prg-2324-soupal\231909 knihovna\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfoInputs.cache
+R:\PRG\GitHub\4D-prg-2324-soupal\231909 knihovna\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.AssemblyInfo.cs
+R:\PRG\GitHub\4D-prg-2324-soupal\231909 knihovna\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+R:\PRG\GitHub\4D-prg-2324-soupal\231909 knihovna\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.exe
+R:\PRG\GitHub\4D-prg-2324-soupal\231909 knihovna\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.deps.json
+R:\PRG\GitHub\4D-prg-2324-soupal\231909 knihovna\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.runtimeconfig.json
+R:\PRG\GitHub\4D-prg-2324-soupal\231909 knihovna\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.dll
+R:\PRG\GitHub\4D-prg-2324-soupal\231909 knihovna\ConsoleApp1\ConsoleApp1\bin\Debug\net7.0\ConsoleApp1.pdb
+R:\PRG\GitHub\4D-prg-2324-soupal\231909 knihovna\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.dll
+R:\PRG\GitHub\4D-prg-2324-soupal\231909 knihovna\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\refint\ConsoleApp1.dll
+R:\PRG\GitHub\4D-prg-2324-soupal\231909 knihovna\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.pdb
+R:\PRG\GitHub\4D-prg-2324-soupal\231909 knihovna\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ConsoleApp1.genruntimeconfig.cache
+R:\PRG\GitHub\4D-prg-2324-soupal\231909 knihovna\ConsoleApp1\ConsoleApp1\obj\Debug\net7.0\ref\ConsoleApp1.dll
